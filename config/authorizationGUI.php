@@ -6,7 +6,7 @@ return [
     // authorizations that will be necessary to manage the administration interface.
     'authorizations' => [
         // has total control over the users.
-        'administrator' => 'authorization-administrator',
+        'administrator' => 'authorizations-administrator',
 
         // you can only see the roles and permissions that a certain user has.
         'view' => 'view-authorizations',
