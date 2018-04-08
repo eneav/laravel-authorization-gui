@@ -19,6 +19,9 @@ return [
 
         // You can create new roles or permissions, in addition to assigning permissions to a specific role.
         'create' => 'create-authorizations',
+
+        // you can only edit the authorizations.
+        'edit' => 'edit-authorizations',
     ],
 
     // routes for administration.
